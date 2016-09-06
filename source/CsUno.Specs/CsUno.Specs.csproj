@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="StartFirstRound.cs" />
+    <Compile Include="StartingGame.cs" />
     <Content Include="NuGet.config">
       <Paket>True</Paket>
     </Content>
